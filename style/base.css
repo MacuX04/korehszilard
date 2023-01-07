@@ -1,0 +1,30 @@
+:root {
+    --darkblue: #0d2233 ;
+    --green: #42ab8a ;
+    --white: #ffffff ;
+    --black: #000000 ;
+    --mainFont: 'Poppins', sans-serif;
+    --logoFont: 'Gloria Hallelujah', cursive;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+html {
+    font-size: 16px;
+}
+
+body{
+    background: var(--darkblue);
+    font-family: var(--mainFont);
+    color: var(--black);
+}
