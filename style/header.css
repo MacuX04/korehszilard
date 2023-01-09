@@ -14,7 +14,6 @@ header {
     font-family: var(--logoFont);
     color: var(--black);
     font-weight: 500;
-    letter-spacing: 0.04em;
 }
 
 .hamburger{
@@ -67,7 +66,6 @@ header {
 
 .nav-list__element a {
     color: var(--black);
-    letter-spacing: 0.04em;
     font-weight: 700;
 }
 
